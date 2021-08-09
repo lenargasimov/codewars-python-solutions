@@ -1,5 +1,5 @@
 <p align="center">
-<img width="" src="https://octodex.github.com/images/dojocat.jpg" align="center" alt="dojocat" width="40%" />
+<img width="" src="https://octodex.github.com/images/dojocat.jpg" align="center" alt="dojocat" width="350px" />
 <h1 align="center">CodeWars Python Solutions
     <a href="https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?&url=https://github.com/lenargasimov/codewars-solutions&via=lenargasimov&hashtags=codewars,python,kata,kyu,developers">
       <img alt="Tweet" src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" />
@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/github/last-commit/lenargasimov/codewars-solutions.?style=plastic">
-    <img src="https://img.shields.io/github/forks/lenargasimov/codewars-solutions.svg" alt="">
-    <img src="https://img.shields.io/github/stars/lenargasimov/codewars-solutions.svg" alt="">
+    <img src="https://img.shields.io/github/last-commit/lenargasimov/codewars-python-solutions.?style=plastic">
+    <img src="https://img.shields.io/github/forks/lenargasimov/codewars-python-solutions.svg" alt="">
+    <img src="https://img.shields.io/github/stars/lenargasimov/codewars-python-solutions.svg" alt="">
 </p>
 
 Codewarriors are strongly encouraged not to look at my solutions to Kata until you have completed it yourselves or at least took the time to think about your own approaches
