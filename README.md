@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://octodex.github.com/images/dojocat.jpg" align="center" alt="dojocat" width="350px" />
 <h1 align="center">CodeWars Python Solutions
-    <a href="https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?&url=https://github.com/lenargasimov/codewars-solutions&via=lenargasimov&hashtags=codewars,python,kata,kyu,developers">
+    <a href="https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?&url=https://github.com/lenargasimov/codewars-python-solutions&via=lenargasimov&hashtags=codewars,python,kata,kyu,developers">
       <img alt="Tweet" src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" />
     </a>
 </h1>
