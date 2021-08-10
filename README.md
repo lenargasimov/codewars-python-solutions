@@ -1,14 +1,14 @@
 <p align="center">
 <img src="https://octodex.github.com/images/dojocat.jpg" align="center" alt="dojocat" width="350px" />
 <h1 align="center">CodeWars Python Solutions
-    <a href="https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?&url=https://github.com/lenargasimov/codewars-python-solutions&via=lenargasimov&hashtags=codewars,python,kata,kyu,developers">
+    <a href="https://twitter.com/intent/tweet?&url=https://github.com/lenargasimov/codewars-python-solutions&via=lenargasimov&hashtags=codewars,python,kata,kyu,developers">
       <img alt="Tweet" src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" />
     </a>
 </h1>
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/github/last-commit/lenargasimov/codewars-python-solutions.?style=plastic">
+    <img src="https://img.shields.io/github/last-commit/lenargasimov/codewars-python-solutions?style=plastic">
     <img src="https://img.shields.io/github/forks/lenargasimov/codewars-python-solutions.svg" alt="">
     <img src="https://img.shields.io/github/stars/lenargasimov/codewars-python-solutions.svg" alt="">
 </p>
