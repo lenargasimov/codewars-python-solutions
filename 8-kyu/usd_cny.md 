@@ -15,7 +15,7 @@ The conversion rate you should use is 6.75 CNY for every 1 USD. All numbers shou
 ```python
 def usdcny(usd):
     yuan = usd * 6.75
-    return str(format(yuan, '.2f')) + " Chinese Yuan"
+    return format(yuan, '.2f') + " Chinese Yuan"
 ```
 
 - Python 3.8
