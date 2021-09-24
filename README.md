@@ -1,5 +1,8 @@
 <p align="center">
 <img src="https://octodex.github.com/images/dojocat.jpg" align="center" alt="dojocat" width="350px" />
+<br>
+<br>
+<img src="https://www.codewars.com/users/lenargasimov/badges/micro" alt="">
 <h1 align="center">CodeWars Python Solutions
     <a href="https://twitter.com/intent/tweet?&url=https://github.com/lenargasimov/codewars-python-solutions&via=lenargasimov&hashtags=codewars,python,kata,kyu,developers">
       <img alt="Tweet" src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" />
@@ -37,4 +40,3 @@ Creating a repository like this is discouraged by Codewars
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lenargasimov)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lenargasimov)
 [![Yahoo](https://img.shields.io/badge/Yahoo-720e9e?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:lenargasimov@yahoo.com)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/lenargasimov)
