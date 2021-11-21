@@ -30,7 +30,7 @@ def make_negative( number ):
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 <img style="border-radius: 50%" src="https://github.com/lenargasimov.png" width="100px;" alt=""/>
 <br>
@@ -38,16 +38,6 @@ def make_negative( number ):
 <p>
 <b>Lenar Gasimov</b><br>Python developer | Python, Flask.</p>
     
-[![Website](https://img.shields.io/badge/Website/Blog-black?&style=for-the-badge&logo=website&logoColor=white)](https://lenargasimov.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lenargasimov)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lenargasimov)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lenargasimov)
-[![Yahoo](https://img.shields.io/badge/Yahoo-720e9e?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:lenargasimov@yahoo.com)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/lenargasimov)
-
-
-## 💸 Donations
-
-Feel free to use the :octocat: GitHub Sponsor button to donate towards my work if you're feeling generous ☕️
-
-
-#### 🚧 Under construction... 🚧
+[![DuckDuckGo](https://img.shields.io/badge/email-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)](mailto:lenargasimov@duck.com)
