@@ -30,7 +30,7 @@ Creating a repository like this is discouraged by Codewars
 
 <div align='center'>
 
-<img style="border-radius: 50%" src="https://github.com/lenargasimov.png" width="100px;" alt=""/>
+<img style="border-radius: 50%" src="image/profile-rounded.png" width="100px;" alt=""/>
 <br>
   
 <p>
